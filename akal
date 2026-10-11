@@ -1,0 +1,18 @@
+Build Akal, a responsive social platform, in this repository.
+
+First inspect the repository and any AGENTS.md instructions. If no application exists, initialize a Next.js app with TypeScript and Tailwind CSS.
+
+Create an MVP with:
+- A home feed with text and image posts
+- User profiles with bios and follower counts
+- Post creation, likes, comments, and bookmarks
+- Search for people and posts
+- Notifications
+- Responsive navigation for mobile and desktop
+- Accessible components and light/dark themes
+
+Use a clean, distinctive visual design with readable typography and thoughtful spacing. Use realistic sample content.
+
+Start with local mock data and working interactions. Clearly identify features that require a backend; do not present simulated authentication or persistence as production-ready.
+
+Implement the app, run the available build and checks, fix failures, and verify the main user flows. Finish with startup instructions and a concise explanation of what works and what remains.
